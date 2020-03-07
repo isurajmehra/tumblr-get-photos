@@ -6,4 +6,4 @@ enter your blog address. take pictures.
 
 or
 
-> http://localhost/tumblr/get.php?url=``https://blogname.tumblr.com``&limit=``10``
+> ............../get.php?url=``https://blogname.tumblr.com``&limit=``10``
